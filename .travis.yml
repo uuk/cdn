@@ -8,8 +8,8 @@ branches:
   - master
 
 before_script:
-- git config --global user.name "travis"
-- git config --global user.email "travis@miantiao.me"
+- git config --global user.name "aimwhy"
+- git config --global user.email "aimwhy@foxmail.com"
 
 script:
 - git push -f https://$GITHUB_KEY@github.com/$TRAVIS_REPO_SLUG.git `npm version patch -m "%s [ci skip]"`

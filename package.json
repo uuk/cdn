@@ -1,0 +1,23 @@
+{
+  "name": "cdn",
+  "version": "1.0.0",
+  "description": "cdn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uuk/cdn.git"
+  },
+  "keywords": [
+    "cdn",
+    "aimwhy"
+  ],
+  "author": "wanghongying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uuk/cdn/issues"
+  },
+  "homepage": "https://github.com/uuk/cdn#readme"
+}
