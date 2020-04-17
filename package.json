@@ -1,6 +1,6 @@
 {
   "name": "cdn",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "cdn",
   "main": "index.js",
   "scripts": {
